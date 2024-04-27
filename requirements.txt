@@ -1,0 +1,5 @@
+Wordgame is a game where users get points by putting together words from a random set of letters.
+
+They get points for longer words and for using difficult letters.
+
+Users start with a set amount of points and can spend those points to gamble and replace a set of letters.
